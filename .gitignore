@@ -1,0 +1,18 @@
+# ignore build, install, log folders
+/build/*
+/install/*
+/log/*
+/.*
+!/.gitignore
+
+
+# Remove syncing of following source folders from git
+/src/ament/*
+/src/eclipse-cyclonedds/*
+/src/eProsima/*
+/src/osrf/*
+/src/ros/*
+/src/ros2/*
+/src/ros-perception/*
+/src/ros-planning/*
+/src/ros-visualization/*
