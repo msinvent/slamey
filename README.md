@@ -75,6 +75,14 @@ colcon build --symlink-install --packages-select test_package
 
 If you wan to build the entire ROS2 again then use **colcon build --symlink-install**, but, remember it will only build the packages that don't have **AMENT_IGNORE** file in any of its parent directory structure.
 
+I will follow instructions shown at https://index.ros.org/doc/ros2/Tutorials/Writing-A-Simple-Cpp-Publisher-And-Subscriber/ for this section.
+
+```bash
+setupROS2
+cd ~/ros2_ws/ros2_ws/src/test_package/src/
+wget -O publisher_member_function.cpp https://raw.githubusercontent.com/ros2/examples/master/rclcpp/topics/minimal_publisher/member_function.cpp
+```
+
 
 
 ## 4. Shortcuts to bookmark

@@ -5,6 +5,9 @@
 /.*
 !/.gitignore
 
+/*/build/*
+/*/install/*
+/*/log/*
 
 # Remove syncing of following source folders from git
 /src/ament/*
