@@ -81,6 +81,15 @@ I will follow instructions shown at https://index.ros.org/doc/ros2/Tutorials/Wri
 setupROS2
 cd ~/ros2_ws/ros2_ws/src/test_package/src/
 wget -O publisher_member_function.cpp https://raw.githubusercontent.com/ros2/examples/master/rclcpp/topics/minimal_publisher/member_function.cpp
+wget -O subscriber_member_function.cpp https://raw.githubusercontent.com/ros2/examples/master/rclcpp/topics/minimal_subscriber/member_function.cpp
+```
+
+Modify **Package.xml** and **CMakeLists.txt** to include these 2 source files.
+
+And then run the build command
+
+```bash
+colcon build --symlink-install --packages-select test_package
 ```
 
 
