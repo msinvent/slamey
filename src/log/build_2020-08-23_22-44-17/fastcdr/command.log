@@ -1,6 +1,0 @@
-Invoking command in '/home/manish/ros2_ws/ros2_ws/src/build/fastcdr': /usr/bin/cmake /home/manish/ros2_ws/ros2_ws/src/eProsima/Fast-CDR -DCMAKE_INSTALL_PREFIX=/home/manish/ros2_ws/ros2_ws/src/install/fastcdr
-Invoked command in '/home/manish/ros2_ws/ros2_ws/src/build/fastcdr' returned '0': /usr/bin/cmake /home/manish/ros2_ws/ros2_ws/src/eProsima/Fast-CDR -DCMAKE_INSTALL_PREFIX=/home/manish/ros2_ws/ros2_ws/src/install/fastcdr
-Invoking command in '/home/manish/ros2_ws/ros2_ws/src/build/fastcdr': /usr/bin/cmake --build /home/manish/ros2_ws/ros2_ws/src/build/fastcdr -- -j4 -l4
-Invoked command in '/home/manish/ros2_ws/ros2_ws/src/build/fastcdr' returned '0': /usr/bin/cmake --build /home/manish/ros2_ws/ros2_ws/src/build/fastcdr -- -j4 -l4
-Invoking command in '/home/manish/ros2_ws/ros2_ws/src/build/fastcdr': /usr/bin/cmake --build /home/manish/ros2_ws/ros2_ws/src/build/fastcdr --target install -- -j4 -l4
-Invoked command in '/home/manish/ros2_ws/ros2_ws/src/build/fastcdr' returned '0': /usr/bin/cmake --build /home/manish/ros2_ws/ros2_ws/src/build/fastcdr --target install -- -j4 -l4

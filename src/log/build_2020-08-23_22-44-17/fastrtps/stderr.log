@@ -1,6 +1,0 @@
-make[2]: *** [src/cpp/CMakeFiles/fastrtps.dir/rtps/builtin/liveliness/timedevent/WLivelinessPeriodicAssertion.cpp.o] Interrupt
-make[2]: *** [src/cpp/CMakeFiles/fastrtps.dir/rtps/builtin/liveliness/WLP.cpp.o] Interrupt
-make[2]: *** [src/cpp/CMakeFiles/fastrtps.dir/rtps/builtin/liveliness/WLPListener.cpp.o] Interrupt
-make[2]: *** [src/cpp/CMakeFiles/fastrtps.dir/rtps/builtin/data/ParticipantProxyData.cpp.o] Interrupt
-make[1]: *** [src/cpp/CMakeFiles/fastrtps.dir/all] Interrupt
-make: *** [all] Interrupt
