@@ -1,0 +1,72 @@
+[0.058s] Invoking command in '/home/manish/ros2_ws/ros2_ws/src/build/fastcdr': /usr/bin/cmake /home/manish/ros2_ws/ros2_ws/src/eProsima/Fast-CDR -DCMAKE_INSTALL_PREFIX=/home/manish/ros2_ws/ros2_ws/src/install/fastcdr
+[0.080s] -- Setting build type to 'Release' as none was specified.
+[0.218s] -- The C compiler identification is GNU 7.5.0
+[0.454s] -- The CXX compiler identification is GNU 7.5.0
+[0.473s] -- Check for working C compiler: /usr/bin/cc
+[0.644s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.645s] -- Detecting C compiler ABI info
+[0.776s] -- Detecting C compiler ABI info - done
+[0.786s] -- Detecting C compile features
+[1.156s] -- Detecting C compile features - done
+[1.160s] -- Check for working CXX compiler: /usr/bin/c++
+[1.296s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.297s] -- Detecting CXX compiler ABI info
+[1.433s] -- Detecting CXX compiler ABI info - done
+[1.443s] -- Detecting CXX compile features
+[2.041s] -- Detecting CXX compile features - done
+[2.042s] -- Configuring Fast CDR
+[2.043s] -- Version: 1.0.10
+[2.043s] -- To change the version modify the file configure.ac
+[2.048s] -- Performing Test SUPPORTS_CXX14
+[2.201s] -- Performing Test SUPPORTS_CXX14 - Success
+[2.202s] -- Check if the system is big endian
+[2.202s] -- Searching 16 bit integer
+[2.204s] -- Looking for sys/types.h
+[2.357s] -- Looking for sys/types.h - found
+[2.357s] -- Looking for stdint.h
+[2.479s] -- Looking for stdint.h - found
+[2.479s] -- Looking for stddef.h
+[2.598s] -- Looking for stddef.h - found
+[2.598s] -- Check size of unsigned short
+[2.721s] -- Check size of unsigned short - done
+[2.721s] -- Using unsigned short
+[2.844s] -- Check if the system is big endian - little endian
+[2.864s] -- Configuring done
+[2.869s] -- Generating done
+[2.870s] -- Build files have been written to: /home/manish/ros2_ws/ros2_ws/src/build/fastcdr
+[3.318s] Invoked command in '/home/manish/ros2_ws/ros2_ws/src/build/fastcdr' returned '0': /usr/bin/cmake /home/manish/ros2_ws/ros2_ws/src/eProsima/Fast-CDR -DCMAKE_INSTALL_PREFIX=/home/manish/ros2_ws/ros2_ws/src/install/fastcdr
+[3.320s] Invoking command in '/home/manish/ros2_ws/ros2_ws/src/build/fastcdr': /usr/bin/cmake --build /home/manish/ros2_ws/ros2_ws/src/build/fastcdr -- -j4 -l4
+[3.420s] [35m[1mScanning dependencies of target fastcdr[0m
+[3.503s] [ 14%] [32mBuilding CXX object src/cpp/CMakeFiles/fastcdr.dir/Cdr.cpp.o[0m
+[3.503s] [ 28%] [32mBuilding CXX object src/cpp/CMakeFiles/fastcdr.dir/FastCdr.cpp.o[0m
+[3.529s] [ 42%] [32mBuilding CXX object src/cpp/CMakeFiles/fastcdr.dir/FastBuffer.cpp.o[0m
+[3.540s] [ 57%] [32mBuilding CXX object src/cpp/CMakeFiles/fastcdr.dir/exceptions/Exception.cpp.o[0m
+[3.881s] [ 71%] [32mBuilding CXX object src/cpp/CMakeFiles/fastcdr.dir/exceptions/NotEnoughMemoryException.cpp.o[0m
+[4.137s] [ 85%] [32mBuilding CXX object src/cpp/CMakeFiles/fastcdr.dir/exceptions/BadParamException.cpp.o[0m
+[5.829s] [100%] [32m[1mLinking CXX shared library libfastcdr.so[0m
+[6.169s] [100%] Built target fastcdr
+[6.740s] Invoked command in '/home/manish/ros2_ws/ros2_ws/src/build/fastcdr' returned '0': /usr/bin/cmake --build /home/manish/ros2_ws/ros2_ws/src/build/fastcdr -- -j4 -l4
+[7.071s] Invoking command in '/home/manish/ros2_ws/ros2_ws/src/build/fastcdr': /usr/bin/cmake --build /home/manish/ros2_ws/ros2_ws/src/build/fastcdr --target install -- -j4 -l4
+[7.450s] [100%] Built target fastcdr
+[7.502s] [36mInstall the project...[0m
+[7.522s] -- Install configuration: "Release"
+[7.522s] -- Installing: /home/manish/ros2_ws/ros2_ws/src/install/fastcdr/share/fastcdr/LICENSE
+[7.523s] -- Installing: /home/manish/ros2_ws/ros2_ws/src/install/fastcdr/include/fastcdr
+[7.523s] -- Installing: /home/manish/ros2_ws/ros2_ws/src/install/fastcdr/include/fastcdr/Cdr.h
+[7.524s] -- Installing: /home/manish/ros2_ws/ros2_ws/src/install/fastcdr/include/fastcdr/FastCdr.h
+[7.524s] -- Installing: /home/manish/ros2_ws/ros2_ws/src/install/fastcdr/include/fastcdr/fastcdr_dll.h
+[7.524s] -- Installing: /home/manish/ros2_ws/ros2_ws/src/install/fastcdr/include/fastcdr/eProsima_auto_link.h
+[7.524s] -- Installing: /home/manish/ros2_ws/ros2_ws/src/install/fastcdr/include/fastcdr/FastBuffer.h
+[7.525s] -- Installing: /home/manish/ros2_ws/ros2_ws/src/install/fastcdr/include/fastcdr/exceptions
+[7.525s] -- Installing: /home/manish/ros2_ws/ros2_ws/src/install/fastcdr/include/fastcdr/exceptions/BadParamException.h
+[7.525s] -- Installing: /home/manish/ros2_ws/ros2_ws/src/install/fastcdr/include/fastcdr/exceptions/Exception.h
+[7.525s] -- Installing: /home/manish/ros2_ws/ros2_ws/src/install/fastcdr/include/fastcdr/exceptions/NotEnoughMemoryException.h
+[7.525s] -- Installing: /home/manish/ros2_ws/ros2_ws/src/install/fastcdr/include/fastcdr/config.h
+[7.526s] -- Installing: /home/manish/ros2_ws/ros2_ws/src/install/fastcdr/lib/libfastcdr.so.1.0.10
+[7.526s] -- Installing: /home/manish/ros2_ws/ros2_ws/src/install/fastcdr/lib/libfastcdr.so.1
+[7.526s] -- Installing: /home/manish/ros2_ws/ros2_ws/src/install/fastcdr/lib/libfastcdr.so
+[7.527s] -- Installing: /home/manish/ros2_ws/ros2_ws/src/install/fastcdr/share/fastcdr/cmake/fastcdr-targets.cmake
+[7.527s] -- Installing: /home/manish/ros2_ws/ros2_ws/src/install/fastcdr/share/fastcdr/cmake/fastcdr-targets-release.cmake
+[7.527s] -- Installing: /home/manish/ros2_ws/ros2_ws/src/install/fastcdr/share/fastcdr/cmake/fastcdr-config.cmake
+[7.528s] -- Installing: /home/manish/ros2_ws/ros2_ws/src/install/fastcdr/share/fastcdr/cmake/fastcdr-config-version.cmake
+[7.537s] Invoked command in '/home/manish/ros2_ws/ros2_ws/src/build/fastcdr' returned '0': /usr/bin/cmake --build /home/manish/ros2_ws/ros2_ws/src/build/fastcdr --target install -- -j4 -l4

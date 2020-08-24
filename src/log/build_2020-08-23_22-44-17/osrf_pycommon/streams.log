@@ -1,0 +1,22 @@
+[0.652s] Invoking command in '/home/manish/ros2_ws/ros2_ws/src/build/osrf_pycommon': PYTHONPATH=/home/manish/ros2_ws/ros2_ws/src/install/osrf_pycommon/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/manish/ros2_ws/ros2_ws/src/install/osrf_pycommon --editable --build-directory /home/manish/ros2_ws/ros2_ws/src/build/osrf_pycommon/build --no-deps install_data --install-dir /home/manish/ros2_ws/ros2_ws/src/install/osrf_pycommon
+[1.169s] running develop
+[1.370s] running egg_info
+[1.370s] creating osrf_pycommon.egg-info
+[1.370s] writing osrf_pycommon.egg-info/PKG-INFO
+[1.370s] writing dependency_links to osrf_pycommon.egg-info/dependency_links.txt
+[1.370s] writing requirements to osrf_pycommon.egg-info/requires.txt
+[1.371s] writing top-level names to osrf_pycommon.egg-info/top_level.txt
+[1.374s] writing manifest file 'osrf_pycommon.egg-info/SOURCES.txt'
+[1.408s] reading manifest file 'osrf_pycommon.egg-info/SOURCES.txt'
+[1.409s] writing manifest file 'osrf_pycommon.egg-info/SOURCES.txt'
+[1.414s] running build_ext
+[1.415s] Creating /home/manish/ros2_ws/ros2_ws/src/install/osrf_pycommon/lib/python3.6/site-packages/osrf-pycommon.egg-link (link to .)
+[1.415s] 
+[1.416s] Installed /home/manish/ros2_ws/ros2_ws/src/build/osrf_pycommon
+[1.416s] running install_data
+[1.416s] copying package.xml -> /home/manish/ros2_ws/ros2_ws/src/install/osrf_pycommon/share/osrf_pycommon
+[1.416s] creating /home/manish/ros2_ws/ros2_ws/src/install/osrf_pycommon/share/ament_index
+[1.416s] creating /home/manish/ros2_ws/ros2_ws/src/install/osrf_pycommon/share/ament_index/resource_index
+[1.416s] creating /home/manish/ros2_ws/ros2_ws/src/install/osrf_pycommon/share/ament_index/resource_index/packages
+[1.416s] copying resource/osrf_pycommon -> /home/manish/ros2_ws/ros2_ws/src/install/osrf_pycommon/share/ament_index/resource_index/packages
+[1.446s] Invoked command in '/home/manish/ros2_ws/ros2_ws/src/build/osrf_pycommon' returned '0': PYTHONPATH=/home/manish/ros2_ws/ros2_ws/src/install/osrf_pycommon/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/manish/ros2_ws/ros2_ws/src/install/osrf_pycommon --editable --build-directory /home/manish/ros2_ws/ros2_ws/src/build/osrf_pycommon/build --no-deps install_data --install-dir /home/manish/ros2_ws/ros2_ws/src/install/osrf_pycommon

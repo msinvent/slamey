@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating ament_clang_format.egg-info
+writing ament_clang_format.egg-info/PKG-INFO
+writing dependency_links to ament_clang_format.egg-info/dependency_links.txt
+writing entry points to ament_clang_format.egg-info/entry_points.txt
+writing requirements to ament_clang_format.egg-info/requires.txt
+writing top-level names to ament_clang_format.egg-info/top_level.txt
+writing manifest file 'ament_clang_format.egg-info/SOURCES.txt'
+reading manifest file 'ament_clang_format.egg-info/SOURCES.txt'
+writing manifest file 'ament_clang_format.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/manish/ros2_ws/ros2_ws/src/install/ament_clang_format/lib/python3.6/site-packages/ament-clang-format.egg-link (link to .)
+Installing ament_clang_format script to /home/manish/ros2_ws/ros2_ws/src/install/ament_clang_format/bin
+
+Installed /home/manish/ros2_ws/ros2_ws/src/build/ament_clang_format
+running install_data
+copying package.xml -> /home/manish/ros2_ws/ros2_ws/src/install/ament_clang_format/share/ament_clang_format
+creating /home/manish/ros2_ws/ros2_ws/src/install/ament_clang_format/share/ament_index
+creating /home/manish/ros2_ws/ros2_ws/src/install/ament_clang_format/share/ament_index/resource_index
+creating /home/manish/ros2_ws/ros2_ws/src/install/ament_clang_format/share/ament_index/resource_index/packages
+copying resource/ament_clang_format -> /home/manish/ros2_ws/ros2_ws/src/install/ament_clang_format/share/ament_index/resource_index/packages

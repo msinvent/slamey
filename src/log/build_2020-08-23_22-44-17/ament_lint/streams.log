@@ -1,0 +1,23 @@
+[1.473s] Invoking command in '/home/manish/ros2_ws/ros2_ws/src/build/ament_lint': PYTHONPATH=/home/manish/ros2_ws/ros2_ws/src/install/ament_lint/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/manish/ros2_ws/ros2_ws/src/install/ament_lint --editable --build-directory /home/manish/ros2_ws/ros2_ws/src/build/ament_lint/build --no-deps install_data --install-dir /home/manish/ros2_ws/ros2_ws/src/install/ament_lint
+[2.001s] running develop
+[2.212s] running egg_info
+[2.212s] creating ament_lint.egg-info
+[2.213s] writing ament_lint.egg-info/PKG-INFO
+[2.213s] writing dependency_links to ament_lint.egg-info/dependency_links.txt
+[2.213s] writing entry points to ament_lint.egg-info/entry_points.txt
+[2.213s] writing requirements to ament_lint.egg-info/requires.txt
+[2.213s] writing top-level names to ament_lint.egg-info/top_level.txt
+[2.216s] writing manifest file 'ament_lint.egg-info/SOURCES.txt'
+[2.250s] reading manifest file 'ament_lint.egg-info/SOURCES.txt'
+[2.251s] writing manifest file 'ament_lint.egg-info/SOURCES.txt'
+[2.256s] running build_ext
+[2.256s] Creating /home/manish/ros2_ws/ros2_ws/src/install/ament_lint/lib/python3.6/site-packages/ament-lint.egg-link (link to .)
+[2.258s] 
+[2.258s] Installed /home/manish/ros2_ws/ros2_ws/src/build/ament_lint
+[2.258s] running install_data
+[2.258s] copying package.xml -> /home/manish/ros2_ws/ros2_ws/src/install/ament_lint/share/ament_lint
+[2.258s] creating /home/manish/ros2_ws/ros2_ws/src/install/ament_lint/share/ament_index
+[2.258s] creating /home/manish/ros2_ws/ros2_ws/src/install/ament_lint/share/ament_index/resource_index
+[2.258s] creating /home/manish/ros2_ws/ros2_ws/src/install/ament_lint/share/ament_index/resource_index/packages
+[2.258s] copying resource/ament_lint -> /home/manish/ros2_ws/ros2_ws/src/install/ament_lint/share/ament_index/resource_index/packages
+[2.408s] Invoked command in '/home/manish/ros2_ws/ros2_ws/src/build/ament_lint' returned '0': PYTHONPATH=/home/manish/ros2_ws/ros2_ws/src/install/ament_lint/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/manish/ros2_ws/ros2_ws/src/install/ament_lint --editable --build-directory /home/manish/ros2_ws/ros2_ws/src/build/ament_lint/build --no-deps install_data --install-dir /home/manish/ros2_ws/ros2_ws/src/install/ament_lint
